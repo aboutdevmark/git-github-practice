@@ -1,4 +1,5 @@
 // This is git and github practice.
 console.log("JS file created");
 
-console.log("changed #2");
+// Apply this new change.
+console.log("Apply");
