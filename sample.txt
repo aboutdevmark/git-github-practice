@@ -1,1 +1,6 @@
 Hello World
+
+We are now exploring rebase (for modifying local commits), revert (reverting commits in pushed commits, where we can see in the github/remote repo commits).
+resets is to unstaged everything, when adding HEAD~n, unstage the local commits.
+
+Changed#1
