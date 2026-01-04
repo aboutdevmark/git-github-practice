@@ -4,3 +4,4 @@ We are now exploring rebase (for modifying local commits), revert (reverting com
 resets is to unstaged everything, when adding HEAD~n, unstage the local commits.
 
 Changed#1
+Changed#2
