@@ -3,5 +3,4 @@ console.log("JS file created");
 
 console.log("changed #2");
 
-// Deleted log
-console.log("How about now.");
+console.log("Again push this.");
