@@ -5,3 +5,4 @@ resets is to unstaged everything, when adding HEAD~n, unstage the local commits.
 
 Changed#1
 Changed#2
+Changed#3
